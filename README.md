@@ -1,118 +1,138 @@
-<!-- TOPO: EVA-01 E TERMINAL DINÂMICO -->
-<div align="center">
-  <!-- GIF do Eva (Aumentado para destaque) -->
-  <img src="https://i.imgur.com/1zb7dyE.gif" width="450" alt="Eva-01 Pixel Art">
-  
-  <br>
-
-  <!-- Typing SVG: Nome e Especialidades com efeito retro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=LUCAS+R.+LAGOON;SOC+ANALYST+STUDENT;NETWORK+SECURITY;MIKROTIK+%26+CISCO;BLUE+TEAM+OPERATOR" alt="Typing SVG" />
-
-  <br>
-
-  <!-- Contador de Visitas -->
- <img src="https://komarev.com/ghpvc/?username=lucas-rodrigues1100&label=PROFILE%20VIEWS&color=8000FF&style=for-the-badge&logo=github&logoColor=00FF00" />
-</div>
-
-<!-- SEÇÃO DE MÉTRICAS UNIFICADA -->
-<div align="center">
-  <!-- Título com Typing SVG (Link simplificado para não quebrar) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=SYSTEM+METRICS;SECURITY+STATS" alt="System Metrics" />
-  
-  <br>
-
-  <!-- Gráfico de Status Principal -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucaslagoonss2&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-</div>
-
-<br>
-
-
-<!-- ABOUT ME: TERMINAL STYLE -->
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF00&width=400&lines=USER_PROFILE;ABOUT+ME" alt="About Me" />
-</div>
-
-<p align="left">
-  <img src="https://i.imgur.com/NXo0ceh.png" align="right" width="400" alt="Lain Hacking Clean"/>
-  <code><b>> IDENTITY:</b></code> Lucas Rodrigues, Cybersecurity Student <br>
-  <code><b>> MISSION:</b></code> Cyber defense, infrastructure, and automation <br>
-  <code><b>> CURRENT_TASK:</b></code> Enhancing Blue Team expertise via Homelab
-</p>
-
-<p align="left">
-  <code><b>> EDUCATION:</b></code> Cybersecurity @ UNIASSELVI (2025-2027) <br>
-  <code><b>> SPECIALIZATION:</b></code> Traffic Monitoring & Vulnerability Analysis <br>
-  <code><b>> STACK_INFO:</b></code> MikroTik & ISP Network Specialist <br>
-  <code><b>> LAB_STATUS:</b></code> Active Homelab for attack/defense simulations <br>
-  <code><b>> SCRIPTING:</b></code> Proficient in Python for security
-</p>
-
-<br clear="right">
-
-<!-- CONTACT: ORIGINAL COLORS & BRIGHT TITLE -->
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF00&width=400&lines=CONTACT" alt="Contact" />
-</div>
-
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucasrodriguesr343@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-rodrigues1100">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/557581144786">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
-
-
-
-<br>
-
-<!-- SECTION: TECH STACK & SKILLS (PURPLE) -->
-<div align="center">
-  <img src="https://i.imgur.com/nlXIltR.gif" width="320" />
-  <br>
-  <!-- Texto estático: repeat=false e duration=1 matam o movimento e o pisca-pisca -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&color=8000FF&center=true&vCenter=true&width=500&lines=Tech_Stack_%26_Skills&repeat=false" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=kali,debian,ubuntu,linux,bash,py,mysql,github,vscode,git&perline=5" />
-</div>
-
-<br>
-
-<!-- SECTION: SECURITY & NETWORKING (GREEN) -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&color=00FF00&center=true&vCenter=true&width=550&lines=Security_%26_Networking&repeat=false" />
-  <br>
-  <img src="https://img.shields.io/badge/MIKROTIK-000000?style=for-the-badge&logo=mikrotik&logoColor=white" />
-  <img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/NMAP-049FD9?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/CISCO-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/SOC_ANALYST-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BLUE_TEAM-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DDOS_MITIGATION-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DEFENSIVE-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TRYHACKME-1F2937?style=for-the-badge&logo=tryhackme" />
-</div>
-
-<br>
-
-<!-- SECTION: CORE REPOSITORIES -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1500&color=00FF00&center=true&vCenter=true&width=500&lines=CORE_REPOSITORIES;ACCESS_GRANTED" />
+<img src="https://i.imgur.com/1zb7dyE.gif" width="320" alt="banner"/>
 
-  <br><br>
+<br/>
 
-  <p align="center">
-    <a href="https://github.com/Lucaslagoonss2/DDoS-Mitigation-Lab">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Lucaslagoonss2&repo=DDoS-Mitigation-Lab&theme=tokyonight&border_radius=10&show_owner=true&cache_seconds=1" />
-    </a>
-  </p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1200&color=00FF9C&center=true&vCenter=true&width=600&lines=Lucas+Rodrigues+%7C+Cybersecurity+Student;Network+Infrastructure+%E2%86%92+Blue+Team+%2F+SOC;Traffic+Analysis+%7C+Threat+Detection+%7C+MikroTik)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-rodrigues1100)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasrodriguesr343@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/557581144786)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Lucaslagoonss2&label=Profile+Views&color=00FF9C&style=flat-square)
+
 </div>
- 
 
+---
+
+# About Me
+
+Cybersecurity student from Feira de Santana, Brazil, with a background in network infrastructure and a strong focus on defensive security and SOC operations.
+
+I worked as a Network Support Technician at an ISP, configuring MikroTik firewalls, monitoring live traffic, troubleshooting TCP/IP and DNS incidents, and supporting production network environments. That hands-on experience helped me understand how real-world traffic behaves and sparked my interest in threat detection and incident analysis.
+
+Today, I run a personal homelab using EVE-NG and MikroTik to simulate SOC scenarios, analyze packet captures with Wireshark, and practice Tier-1 triage workflows. I'm currently focused on improving my Blue Team skills through practical labs, traffic analysis, and security monitoring.
+
+**Open to:** SOC Analyst Intern · Blue Team · Security Operations · NOC
+
+---
+
+# Technical Skills
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,bash,py,git,github,vscode&perline=8"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+![Wireshark](https://img.shields.io/badge/Wireshark-101010?style=flat-square&logo=wireshark&logoColor=00FF9C)
+![MikroTik](https://img.shields.io/badge/MikroTik-101010?style=flat-square&logo=mikrotik&logoColor=00FF9C)
+![Cisco](https://img.shields.io/badge/Cisco-101010?style=flat-square&logo=cisco&logoColor=00FF9C)
+![Nmap](https://img.shields.io/badge/Nmap-101010?style=flat-square)
+![EVE--NG](https://img.shields.io/badge/EVE--NG-101010?style=flat-square)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-101010?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-101010?style=flat-square)
+![Firewall](https://img.shields.io/badge/Firewall_Rules-101010?style=flat-square)
+![VLAN](https://img.shields.io/badge/VLAN_Segmentation-101010?style=flat-square)
+![SIEM](https://img.shields.io/badge/SIEM_Fundamentals-101010?style=flat-square)
+![Blue Team](https://img.shields.io/badge/Blue_Team-101010?style=flat-square)
+![SOC](https://img.shields.io/badge/SOC_Operations-101010?style=flat-square)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS_Concepts-101010?style=flat-square)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-101010?style=flat-square)
+
+</div>
+
+---
+
+# Featured Projects
+
+## [DDoS-Mitigation-Lab](https://github.com/Lucaslagoonss2/DDoS-Mitigation-Lab)
+
+Homelab environment for testing DDoS mitigation using MikroTik firewall rules and traffic rate-limiting.
+
+Simulates volumetric attack patterns, validates detection thresholds, and documents defensive response behavior relevant to SOC monitoring and network defense.
+
+`MikroTik` · `RouterOS` · `Firewall` · `Traffic Analysis` · `Network Defense`
+
+---
+
+## [mysnull-threat-analysis](https://github.com/Lucaslagoonss2/mysnull-threat-analysis)
+
+Python scripts for parsing security logs, extracting IOCs, and correlating suspicious event patterns.
+
+Focused on automating repetitive SOC Tier-1 analysis tasks and improving threat visibility through log correlation.
+
+`Python` · `Log Parsing` · `IOC Extraction` · `Threat Detection` · `SOC Automation`
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Lucaslagoonss2/DDoS-Mitigation-Lab">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Lucaslagoonss2&repo=DDoS-Mitigation-Lab&theme=tokyonight&border_radius=8&hide_border=true&bg_color=0d1117"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Lucaslagoonss2/mysnull-threat-analysis">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Lucaslagoonss2&repo=mysnull-threat-analysis&theme=tokyonight&border_radius=8&hide_border=true&bg_color=0d1117"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucaslagoonss2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucaslagoonss2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+# Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| Introduction to Cybersecurity | Cisco Networking Academy | ✅ |
+| Networking Basics | Cisco / UNIASSELVI | ✅ |
+| SOC Analyst | IBSEC | ✅ |
+| Blue Team Learning Path | TryHackMe | ✅ |
+| Google Cybersecurity Certificate | Coursera | 🔄 In Progress |
+| SC-900: Security Fundamentals | Microsoft | 🔄 In Progress |
+
+---
+
+# Education
+
+**Cybersecurity Technology — UNIASSELVI**  
+`2025 – 2027`
+
+---
+
+<div align="center">
+
+```bash
+Feira de Santana, BA • Brazil
+Open to SOC Analyst internships and Blue Team opportunities
