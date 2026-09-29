@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-rodrigues1100)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasrodriguesr343@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/557581144786)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-6A3FB5?style=flat-square&logoColor=white)](https://cyberdefenders.org/p/Lucascybk1/)
 
 <br/>
 
@@ -26,7 +27,7 @@ Cybersecurity student from Feira de Santana, Brazil, with a background in networ
 
 I worked as a Network Support Technician at an ISP, configuring MikroTik firewalls, monitoring live traffic, troubleshooting TCP/IP and DNS incidents, and supporting production network environments. That hands-on experience helped me understand how real-world traffic behaves and sparked my interest in threat detection and incident analysis.
 
-Today, I run a personal homelab using EVE-NG and MikroTik to simulate SOC scenarios, analyze packet captures with Wireshark, and practice Tier-1 triage workflows. I'm currently focused on improving my Blue Team skills through practical labs, traffic analysis, and security monitoring.
+Today, I run a personal homelab using EVE-NG, MikroTik and Wazuh to simulate SOC scenarios, analyze packet captures with Wireshark, investigate endpoint alerts mapped to MITRE ATT&CK, and practice Tier-1 triage workflows. I'm currently focused on improving my Blue Team skills through practical labs, malware analysis, traffic analysis, and security monitoring.
 
 **Open to:** SOC Analyst Intern · Blue Team · Security Operations · NOC
 
@@ -52,16 +53,31 @@ Today, I run a personal homelab using EVE-NG and MikroTik to simulate SOC scenar
 ![Firewall](https://img.shields.io/badge/Firewall_Rules-101010?style=flat-square)
 ![VLAN](https://img.shields.io/badge/VLAN_Segmentation-101010?style=flat-square)
 ![SIEM](https://img.shields.io/badge/SIEM_Fundamentals-101010?style=flat-square)
+![Wazuh](https://img.shields.io/badge/Wazuh-101010?style=flat-square)
+![Sysmon](https://img.shields.io/badge/Sysmon-101010?style=flat-square)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-101010?style=flat-square)
 ![Blue Team](https://img.shields.io/badge/Blue_Team-101010?style=flat-square)
 ![SOC](https://img.shields.io/badge/SOC_Operations-101010?style=flat-square)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS_Concepts-101010?style=flat-square)
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-101010?style=flat-square)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-101010?style=flat-square)
+![GDB](https://img.shields.io/badge/GDB-101010?style=flat-square)
 
 </div>
 
 ---
 
 # Featured Projects
+
+## [wazuh-soc-monitoring-lab](https://github.com/Lucaslagoonss2/wazuh-soc-monitoring-lab)
+
+Wazuh SIEM/XDR home lab with Windows endpoint monitoring through Sysmon.
+
+Covers alert investigation across 4 attack scenarios, with detections mapped to MITRE ATT&CK and documented as SOC-style triage.
+
+`Wazuh` · `Sysmon` · `SIEM/XDR` · `MITRE ATT&CK` · `Alert Investigation`
+
+---
 
 ## [DDoS-Mitigation-Lab](https://github.com/Lucaslagoonss2/DDoS-Mitigation-Lab)
 
@@ -83,31 +99,28 @@ Focused on automating repetitive SOC Tier-1 analysis tasks and improving threat 
 
 ---
 
-<div align="center">
+## [incident-response-portfolio](https://github.com/Lucaslagoonss2/incident-response-portfolio)
 
-<a href="https://github.com/Lucaslagoonss2/DDoS-Mitigation-Lab">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Lucaslagoonss2&repo=DDoS-Mitigation-Lab&theme=tokyonight&border_radius=8&hide_border=true&bg_color=0d1117"/>
-</a>
+SOC Tier 1 / Blue Team portfolio focused on Incident Response and Threat Detection.
 
-&nbsp;
-
-<a href="https://github.com/Lucaslagoonss2/mysnull-threat-analysis">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Lucaslagoonss2&repo=mysnull-threat-analysis&theme=tokyonight&border_radius=8&hide_border=true&bg_color=0d1117"/>
-</a>
-
-</div>
+`Incident Response` · `Threat Detection` · `SOC Tier 1`
 
 ---
 
-# GitHub Stats
+# Recent Lab Work
 
-<div align="center">
+| Lab | Focus | Key Skills |
+|---|---|---|
+| RE101 | Linux ELF malware analysis | Dynamic debugging with GDB (registers, `$rsp`, hidden strings), hex-level repair of corrupted ZIP headers (little-endian parsing) |
+| FakeGPT (CyberDefenders) | Malicious Chrome extension | Base64 deobfuscation, hidden exfiltration via `<img>` requests to a C2 server, anti-sandbox check (HeadlessChrome), session/cookie theft to bypass 2FA |
 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucaslagoonss2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true"/>
+---
 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucaslagoonss2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+# Currently
 
-</div>
+- 🛡️ Building **Guia Tutelar**, a university extension project: an informational website about the Conselho Tutelar and the ECA, focused on web accessibility (WCAG 2.2 AA) for autistic people and people with disabilities. Privacy by design: no database, no tracking cookies, static hosting on GitHub Pages.
+- 🔬 Practicing malware analysis and SOC triage through CTF labs and the Wazuh home lab.
+- 📚 Working through the Google Cybersecurity Certificate and SC-900.
 
 ---
 
@@ -127,7 +140,7 @@ Focused on automating repetitive SOC Tier-1 analysis tasks and improving threat 
 # Education
 
 **Cybersecurity Technology — UNIASSELVI**  
-`2025 – 2027`
+`2025 – 2027` · expected graduation: May 2027
 
 ---
 
@@ -136,3 +149,6 @@ Focused on automating repetitive SOC Tier-1 analysis tasks and improving threat 
 ```bash
 Feira de Santana, BA • Brazil
 Open to SOC Analyst internships and Blue Team opportunities
+```
+
+</div>
